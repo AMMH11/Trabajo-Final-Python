@@ -42,7 +42,7 @@ Ejemplo de Uso
 Al ejecutar el programa, verás un menú como este:
 
 markdown
-Copiar código
+
 --- Menú Principal ---
 1. Actualizar datos
 2. Visualizar datos
@@ -50,8 +50,8 @@ Copiar código
 Elige una opción:
 Actualizar Datos:
 
-yaml
-Copiar código
+
+
 Ingrese ticker a pedir:
 AAPL
 Ingrese fecha de inicio (YYYY-MM-DD):
@@ -60,15 +60,14 @@ Ingrese fecha de fin (YYYY-MM-DD):
 2022-07-01
 Resumen de Datos:
 
-yaml
-Copiar código
+
+
 Los tickers guardados en la base de datos son:
 AAPL - 2022-01-01 <-> 2022-07-01
 MSFT - 2021-01-01 <-> 2021-12-31
 Gráfico:
 
-css
-Copiar código
+
 Ingrese el ticker a graficar:
 AAPL
 Se generará un gráfico del precio de cierre de la acción AAPL para el rango de fechas solicitado.
